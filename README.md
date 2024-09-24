@@ -18,17 +18,17 @@ After learning about basic HTML text structure tags, students will create a simp
          <meta charset="UTF-8" />
          <meta
            name="description"
-           content="A simple webpage demonstrating the basics of HTML structure."
+           content="A simple about me webpage."
          />
          <meta
            name="keywords"
-           content="HTML, web development, tutorial, basics"
+           content="PLEASE ADD KEYWORDS"
          />
          <meta
            name="viewport"
            content="width=device-width, initial-scale=1.0"
          />
-         <title>Lesson 2 Classwork</title>
+         <title>About Me</title>
        </head>
        <body></body>
      </html>
