@@ -1,4 +1,4 @@
-### **Lesson 2: Basic Text Structure Tags - Classwork Assignment**
+### **Lesson 1: Basic Text Structure Tags - Classwork Assignment**
 
 #### **Objective:**
 
