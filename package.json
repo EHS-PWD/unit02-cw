@@ -1,0 +1,13 @@
+{
+  "name": "html-unit02-l01",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "lint": "htmlhint student-code/*.html"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.6.3",
+    "jest": "^29.0.0",
+    "jsdom": "^21.1.0"
+  }
+}
